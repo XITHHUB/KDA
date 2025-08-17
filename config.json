@@ -1,0 +1,14 @@
+{
+  "model_path": "best.pt",
+  "max_workers": 8,
+  "max_sessions": 100,
+  "session_timeout": 300,
+  "max_frame_size": 640,
+  "confidence_threshold": 0.25,
+  "jpeg_quality": 85,
+  "enable_gpu": true,
+  "cache_detections": true,
+  "max_fps": 30,
+  "detection_timeout": 8,
+  "cleanup_interval": 60
+}

@@ -1,0 +1,30 @@
+{
+  "high_quality": {
+    "resolution": "1280x720",
+    "detection_interval": 5,
+    "target_fps": 20,
+    "jpeg_quality": 95,
+    "description": "High quality for detailed analysis (slower)"
+  },
+  "balanced": {
+    "resolution": "640x480",
+    "detection_interval": 3,
+    "target_fps": 25,
+    "jpeg_quality": 85,
+    "description": "Balanced quality and performance (default)"
+  },
+  "performance": {
+    "resolution": "320x240",
+    "detection_interval": 2,
+    "target_fps": 30,
+    "jpeg_quality": 70,
+    "description": "High speed for real-time applications"
+  },
+  "mobile": {
+    "resolution": "480x360",
+    "detection_interval": 4,
+    "target_fps": 20,
+    "jpeg_quality": 75,
+    "description": "Optimized for mobile/low-power devices"
+  }
+}

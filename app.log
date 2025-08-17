@@ -1,0 +1,1721 @@
+2025-08-17 10:57:15,290 - __main__ - INFO - Loaded configuration from config.json
+2025-08-17 10:57:15,292 - __main__ - INFO - Loading YOLO model: best.pt
+2025-08-17 10:57:15,292 - __main__ - INFO - Using device: cpu
+2025-08-17 10:57:15,405 - __main__ - INFO - Model loaded successfully. Classes: 6
+2025-08-17 10:57:15,408 - __main__ - INFO - 🚀 Starting Optimized YOLOv8 Flask App...
+2025-08-17 10:57:15,409 - __main__ - INFO - 🌐 Access from any device: http://localhost:5000
+2025-08-17 10:57:15,409 - __main__ - INFO - 📱 Browser camera with real-time detection
+2025-08-17 10:57:15,409 - __main__ - INFO - 🔗 Network access: http://[YOUR_IP]:5000
+2025-08-17 10:57:15,409 - __main__ - INFO - ⚡ Max workers: 8
+2025-08-17 10:57:15,409 - __main__ - INFO - 📊 GPU enabled: True
+2025-08-17 10:57:15,409 - __main__ - INFO - 📝 Allow camera permissions when prompted
+2025-08-17 10:57:15,410 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.13.178:5000
+2025-08-17 10:57:15,410 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-17 10:57:23,278 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 10:57:23,278 - __main__ - INFO - ✅ App shutdown complete
+2025-08-17 10:58:29,132 - __main__ - INFO - Loaded configuration from config.json
+2025-08-17 10:58:29,133 - __main__ - INFO - Loading YOLO model: best.pt
+2025-08-17 10:58:29,133 - __main__ - INFO - Using device: cpu
+2025-08-17 10:58:29,237 - __main__ - INFO - Model loaded successfully. Classes: 6
+2025-08-17 10:58:29,241 - __main__ - INFO - 🚀 Starting Optimized YOLOv8 Flask App...
+2025-08-17 10:58:29,241 - __main__ - INFO - 🌐 Access from any device: http://localhost:5000
+2025-08-17 10:58:29,242 - __main__ - INFO - 📱 Browser camera with real-time detection
+2025-08-17 10:58:29,242 - __main__ - INFO - 🔗 Network access: http://[YOUR_IP]:5000
+2025-08-17 10:58:29,242 - __main__ - INFO - ⚡ Max workers: 8
+2025-08-17 10:58:29,242 - __main__ - INFO - 📊 GPU enabled: True
+2025-08-17 10:58:29,242 - __main__ - INFO - 📝 Allow camera permissions when prompted
+2025-08-17 10:58:29,244 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.13.178:5000
+2025-08-17 10:58:29,244 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-17 10:58:42,060 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:58:42] "GET / HTTP/1.1" 200 -
+2025-08-17 10:58:45,648 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:58:45] "GET / HTTP/1.1" 200 -
+2025-08-17 10:59:07,665 - __main__ - INFO - Created session: stream_3j1j2hh7u
+2025-08-17 10:59:08,866 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:08] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:09,074 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:09] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:09,285 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:09] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:09,484 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:09] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:09,698 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:09] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:09,894 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:09] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:10,095 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:10] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:10,310 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:10] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:10,488 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:10] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:10,684 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:10] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:11,735 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:11] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:15,930 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:15] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:16,123 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:16] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:16,317 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:16] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:16,613 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:16] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:16,792 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:16] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:17,003 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:17] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:17,211 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:17] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:17,396 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:17] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:17,587 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:17] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:17,974 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:17] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:18,176 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:18] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:18,359 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:18] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:18,560 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:18] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:18,758 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:18] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:18,970 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:18] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:19,165 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:19] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:19,365 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:19] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:19,572 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:19] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:19,784 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:19] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:19,998 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:19] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:20,215 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:20] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:20,406 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:20] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:20,593 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:20] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:20,793 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:20] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:20,991 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:20] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:21,215 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:21] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:21,402 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:21] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:21,595 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:21] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:21,786 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:21] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:21,978 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:21] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:22,192 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:22] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:22,388 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:22] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:22,569 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:22] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:22,784 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:22] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:22,967 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:22] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:23,158 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:23] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:23,362 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:23] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:23,554 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:23] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:23,743 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:23] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:23,928 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:23] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:24,111 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:24] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:24,313 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:24] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:24,494 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:24] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:24,676 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:24] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:24,865 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:24] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:25,058 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:25] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:25,248 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:25] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:25,441 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:25] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:25,652 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:25] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:25,849 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:25] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:26,055 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:26,245 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:26,436 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:26,632 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:26,848 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:27,039 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:27] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:27,246 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:27] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:27,466 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:27] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:27,655 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:27] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:27,878 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:27] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,076 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,266 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,454 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,509 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,510 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,556 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,557 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,595 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,598 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,604 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,604 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,641 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,642 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,663 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,664 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,683 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,684 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,722 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,723 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,731 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,732 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,766 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,767 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,773 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,774 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,817 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,819 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,847 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,847 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,868 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,869 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,880 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,881 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,921 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,921 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,953 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,954 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,979 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,979 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:28,997 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:28,997 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,021 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,021 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,059 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,060 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,070 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,070 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,104 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,105 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,111 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,116 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,151 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,151 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,171 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,172 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,199 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,199 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,237 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,238 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,245 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,245 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,283 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,284 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,302 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,303 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,336 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,337 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,372 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,373 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,385 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,387 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,425 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,427 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,462 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,463 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,481 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,482 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,519 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,520 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,526 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,526 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,573 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,575 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,604 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,605 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,618 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,619 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,656 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,657 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,663 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,663 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,703 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,705 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,723 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,724 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,752 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,753 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,783 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,783 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,800 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,801 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,830 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,831 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,843 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,843 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,893 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,894 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,906 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,907 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,937 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,938 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,951 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,952 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,980 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,980 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:29,987 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:29,988 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,000 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,001 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,028 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,029 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,044 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,045 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,072 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,073 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,085 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,086 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,117 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,118 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,128 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,129 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,159 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,160 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,172 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,173 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,205 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,206 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,229 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,229 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,251 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,252 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,268 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,268 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,292 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,294 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,325 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,326 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,329 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,331 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,384 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,385 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,405 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,408 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,518 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,519 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,617 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,617 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,741 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,741 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,815 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,816 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:30,977 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:30,978 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:31,019 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:31,019 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:31,101 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:31,102 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:31,224 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:31,224 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:31,314 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:31,315 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:31,411 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:31,411 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:31,506 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:31,506 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:31,614 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:31,616 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:31,703 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:31,703 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:31,822 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:31,823 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:31,910 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:31,910 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:32,015 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:32,016 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:32,116 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:32,116 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:32,257 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:32,257 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:32,319 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:32,319 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:32,423 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:32,425 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:32,525 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:32,525 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:32,611 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:32,612 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:32,723 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:32,724 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:32,820 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:32,821 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:32,927 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:32,927 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:33,021 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:33,022 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:33,131 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:33,132 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:33,220 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:33,220 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:33,332 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:33,333 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:33,422 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:33,422 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:33,530 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:33,530 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:33,628 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:33,629 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:33,731 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:33,731 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:33,831 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:33,831 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:33,936 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:33,937 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:34,034 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:34,035 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:34,131 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:34,132 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:34,234 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:34,234 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:34,343 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:34,344 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:34,445 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:34,445 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:34,531 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:34,532 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:34,640 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:34,641 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:34,738 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:34,739 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:34,832 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:34,832 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:34,954 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:34,954 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:35,049 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:35,050 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:35,144 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:35,145 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:35,241 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:35,241 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:35,349 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:35,349 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:35,447 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:35,448 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:35,584 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:35,585 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:35,687 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:35,688 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:35,788 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:35,789 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:35,853 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:35,853 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:35,961 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:35,962 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:36,055 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:36,055 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:36,158 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:36,159 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:36,293 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:36,294 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:36,358 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:36,358 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:36,458 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:36,458 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:36,567 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:36,567 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:36,681 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:36,682 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:36,753 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:36,754 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:36,853 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:36,854 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:36,966 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:36,967 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:37,067 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:37,067 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:37,165 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:37,165 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:37,298 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:37,299 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:37,355 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:37,356 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:37,467 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:37,468 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:37,574 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:37,575 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:37,676 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:37,677 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:37,763 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:37,763 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:37,866 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:37,867 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:37,971 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:37,972 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:38,062 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:38,063 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:38,160 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:38,161 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:38,263 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:38,264 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:38,371 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:38,371 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:38,465 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:38,466 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:38,559 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:38,559 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:38,664 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:38,665 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:38,803 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:38,804 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:38,878 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:38,879 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:38,966 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:38,967 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:39,075 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:39,075 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:39,169 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:39,170 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:39,267 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:39,268 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:39,370 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:39,371 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:39,470 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:39,471 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:39,681 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:39,681 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:39,713 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:39,714 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:39,770 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:39,771 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:39,883 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:39,884 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:39,975 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:39,976 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:40,081 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:40,081 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:40,178 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:40,178 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:40,283 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:40,284 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:40,387 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:40,388 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:40,490 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:40,490 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:40,581 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:40,581 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:40,704 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:40,705 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:40,790 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:40,791 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:40,893 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:40,893 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:41,004 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:41,004 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:41,084 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:41,085 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:41,182 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:41,183 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:41,292 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:41,292 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:41,411 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:41,412 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:41,495 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:41,496 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:41,593 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:41,594 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:41,683 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:41,683 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:41,794 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:41,794 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:41,915 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:41,916 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:42,012 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:42,014 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:42,131 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:42,132 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:42,202 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:42,203 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:42,300 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:42,300 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:42,480 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:42,481 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:42,520 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:42,520 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:42,594 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:42,594 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:42,693 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:42,693 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:42,793 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:42,794 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:42,901 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:42,902 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:43,001 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:43,002 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:43] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:43,096 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:43,097 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:43] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:43,239 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:43,240 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:43] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:43,299 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:43,300 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:43] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:43,400 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:43,401 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:43] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:46,651 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:46] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:46,730 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:46] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:46,827 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:46] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:46,867 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:46] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:46,932 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:46,933 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:46] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:46,957 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:46] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,034 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:47,035 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,128 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:47,129 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,210 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,236 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:47,238 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,249 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,355 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:47,356 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,388 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,433 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:47,434 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,554 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:47,555 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,558 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,643 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:47,643 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,727 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:47,728 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,738 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,777 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,836 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:47,836 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,910 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,939 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:47,941 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:47,950 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:48,043 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:48,044 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:48,143 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:48,144 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:48,244 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:48,245 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:48,324 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:48,326 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:48,362 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:48,362 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:48,464 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:48,464 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:48,482 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:48,522 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:48,550 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:48,551 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:48,683 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:48,683 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:48,754 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:48,755 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:48,841 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:48,842 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:48,946 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:48,947 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:49,038 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:49,038 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:49,150 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:49,151 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:49,252 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:49,253 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:49,354 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:49,354 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:49,447 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:49,448 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:49,554 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:49,555 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:49,647 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:49,648 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:49,757 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:49,757 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:49,854 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:49,863 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:49,890 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:49,901 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:49,902 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:49,988 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:49,991 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:49,992 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:49,998 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,028 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,065 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,075 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:50,076 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,107 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,155 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,161 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:50,162 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,165 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,206 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,224 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,255 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:50,257 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,261 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,289 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,349 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:50,350 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,362 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,464 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,464 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:50,465 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,550 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:50,550 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,657 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:50,657 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,671 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,751 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:50,752 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,775 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,853 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:50,854 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,870 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,957 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:50,957 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:50,976 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,063 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:51,064 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,162 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:51,162 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,239 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,254 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:51,256 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,320 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,366 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:51,367 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,409 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,460 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:51,461 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,555 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,571 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:51,572 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,670 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:51,671 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,688 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,769 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:51,770 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,789 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,869 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:51,870 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,890 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,966 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:51,967 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:51,995 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,083 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:52,084 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,179 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:52,179 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,194 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,305 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:52,306 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,309 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,384 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:52,384 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,405 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,481 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:52,481 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,489 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,588 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:52,589 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,692 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:52,693 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,706 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,782 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:52,782 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,804 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,910 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:52,910 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,924 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,996 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:52,997 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:52,997 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:53,098 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:53,099 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:53,181 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:53,182 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:53,214 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:53,283 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:53,284 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:53,293 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:53,379 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:53,380 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:53,404 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:53,536 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:53,704 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:53,808 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:53,910 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:54,012 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:54,246 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:54,350 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:54,436 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:54,528 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:54,694 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:54,695 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:54,723 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:54,835 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:54,935 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:55,056 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:55,066 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:55,067 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:55,218 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:55,324 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:55,422 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:55,530 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:55,598 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:55,599 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:55,765 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:55,859 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:55,954 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:56,059 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:56,087 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:56,088 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:56,253 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:56,365 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:57,765 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:57,766 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:57] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:57,991 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:57,992 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:57] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:58,117 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:58,118 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:58] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:58,249 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:58,250 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:58] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:58,578 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:58,579 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:58] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:59,086 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:59,086 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:59] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 10:59:59,620 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 10:59:59,621 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 10:59:59] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:00,107 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:00,108 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:00] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:00,591 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:00,592 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:00] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:01,118 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:01,118 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:01] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:01,599 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:01,600 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:01] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:02,128 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:02,129 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:02] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:02,640 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:02,640 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:02] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:03,150 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:03,150 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:03] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:03,682 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:03,683 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:03] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:04,163 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:04,164 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:04] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:05,144 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:05,145 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:05] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:05,190 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:05,191 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:05] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:05,273 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:05,274 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:05] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:05,358 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:05,359 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:05] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:05,458 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:05,458 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:05] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:05,562 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:05,563 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:05] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:05,676 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:05,677 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:05] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:05,765 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:05,766 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:05] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:05,867 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:05,867 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:05] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:05,959 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:05,960 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:05] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:06,067 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:06,067 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:06] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:06,167 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:06,167 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:06] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:06,268 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:06,269 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:06] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:06,361 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:06,361 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:06] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:06,464 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:06,464 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:06] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:06,568 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:06,569 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:06] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:06,687 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:06,688 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:06] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:06,773 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:06,774 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:06] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:06,860 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:06,861 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:06] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:06,977 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:06,978 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:06] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:07,065 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:07,066 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:07] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:07,164 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:07,165 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:07] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:07,262 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:07,262 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:07] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:07,365 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:07,365 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:07] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:00:07,460 - __main__ - WARNING - Detection timeout for session stream_3j1j2hh7u
+2025-08-17 11:00:07,461 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 11:00:07] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 11:01:02,316 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 11:01:02,347 - __main__ - INFO - ✅ App shutdown complete
+2025-08-17 12:33:52,291 - __main__ - INFO - Loaded configuration from config.json
+2025-08-17 12:33:52,293 - __main__ - INFO - Loading YOLO model: best.pt
+2025-08-17 12:33:52,294 - __main__ - INFO - Using device: cpu
+2025-08-17 12:33:52,482 - __main__ - INFO - Model loaded successfully. Classes: 6
+2025-08-17 12:33:52,486 - __main__ - INFO - 🚀 Starting Optimized YOLOv8 Flask App...
+2025-08-17 12:33:52,486 - __main__ - INFO - 🌐 Access from any device: http://localhost:5000
+2025-08-17 12:33:52,486 - __main__ - INFO - 📱 Browser camera with real-time detection
+2025-08-17 12:33:52,486 - __main__ - INFO - 🔗 Network access: http://[YOUR_IP]:5000
+2025-08-17 12:33:52,486 - __main__ - INFO - ⚡ Max workers: 8
+2025-08-17 12:33:52,486 - __main__ - INFO - 📊 GPU enabled: True
+2025-08-17 12:33:52,486 - __main__ - INFO - 📝 Allow camera permissions when prompted
+2025-08-17 12:33:52,488 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.14.194:5000
+2025-08-17 12:33:52,488 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-17 12:33:58,568 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:33:58,568 - __main__ - INFO - ✅ App shutdown complete
+2025-08-17 12:34:14,303 - __main__ - INFO - Loaded configuration from config.json
+2025-08-17 12:34:14,304 - __main__ - INFO - Loading YOLO model: best.pt
+2025-08-17 12:34:14,304 - __main__ - INFO - Using device: cpu
+2025-08-17 12:34:14,421 - __main__ - INFO - Model loaded successfully. Classes: 6
+2025-08-17 12:34:14,425 - __main__ - INFO - 🚀 Starting Optimized YOLOv8 Flask App...
+2025-08-17 12:34:14,425 - __main__ - INFO - 🌐 Access from any device: http://localhost:5000
+2025-08-17 12:34:14,425 - __main__ - INFO - 📱 Browser camera with real-time detection
+2025-08-17 12:34:14,425 - __main__ - INFO - 🔗 Network access: http://[YOUR_IP]:5000
+2025-08-17 12:34:14,425 - __main__ - INFO - ⚡ Max workers: 8
+2025-08-17 12:34:14,425 - __main__ - INFO - 📊 GPU enabled: True
+2025-08-17 12:34:14,425 - __main__ - INFO - 📝 Allow camera permissions when prompted
+2025-08-17 12:34:14,427 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.14.194:5000
+2025-08-17 12:34:14,427 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-17 12:34:19,715 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:19] "GET / HTTP/1.1" 200 -
+2025-08-17 12:34:22,397 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:34:22,397 - __main__ - INFO - ✅ App shutdown complete
+2025-08-17 12:34:41,102 - __main__ - INFO - Loaded configuration from config.json
+2025-08-17 12:34:41,104 - __main__ - INFO - Loading YOLO model: best.pt
+2025-08-17 12:34:41,104 - __main__ - INFO - Using device: cpu
+2025-08-17 12:34:41,218 - __main__ - INFO - Model loaded successfully. Classes: 6
+2025-08-17 12:34:41,222 - __main__ - INFO - 🚀 Starting Optimized YOLOv8 Flask App...
+2025-08-17 12:34:41,222 - __main__ - INFO - 🌐 Access from any device: http://localhost:5000
+2025-08-17 12:34:41,222 - __main__ - INFO - 📱 Browser camera with real-time detection
+2025-08-17 12:34:41,222 - __main__ - INFO - 🔗 Network access: http://[YOUR_IP]:5000
+2025-08-17 12:34:41,222 - __main__ - INFO - ⚡ Max workers: 8
+2025-08-17 12:34:41,222 - __main__ - INFO - 📊 GPU enabled: True
+2025-08-17 12:34:41,222 - __main__ - INFO - 📝 Allow camera permissions when prompted
+2025-08-17 12:34:41,224 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.14.194:5000
+2025-08-17 12:34:41,224 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-17 12:34:42,762 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:42] "GET / HTTP/1.1" 200 -
+2025-08-17 12:34:52,353 - __main__ - INFO - Created session: stream_ly07yjbvp
+2025-08-17 12:34:52,354 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:52,433 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:52,581 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:52,795 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:52,992 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:53,185 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:53,395 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:53,707 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:53,794 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:54,001 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:54,197 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:54,406 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:54,534 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:54,596 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:54,761 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:54,833 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:54,989 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:55,007 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:55,200 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:55,205 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:55,406 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:55,416 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:55,610 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:55,616 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:55,796 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:55,834 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:56,000 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:56,050 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:56,218 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:56,259 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:56,406 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:56,461 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:56,613 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:56,672 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:56,831 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:56,866 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:57,014 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:57] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:57,072 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:57] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:57,258 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:57] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:57,266 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:57] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:57,410 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:57] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:57,481 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:57] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:57,621 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:57] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:57,683 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:57] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:57,820 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:57] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:57,883 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:57] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:58,021 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:58] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:58,102 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:58] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:58,222 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:58] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:58,313 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:58] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:58,420 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:58] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:58,516 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:58] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:58,632 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:58] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:58,728 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:58] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:58,819 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:58] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:58,951 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:58] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:59,106 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:59] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:59,152 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:59] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:59,254 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:59] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:59,351 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:59] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:59,428 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:59] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:59,566 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:59] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:59,659 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:59] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:59,765 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:59] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:59,833 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:59] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:34:59,977 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:34:59] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:00,054 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:00] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:00,202 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:00] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:00,296 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:00] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:00,408 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:00] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:00,439 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:00] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:00,615 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:00] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:00,652 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:00] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:00,824 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:00] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:00,843 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:00] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:01,050 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:01] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:01,056 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:01] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:01,245 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:01] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:01,257 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:01] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:01,444 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:01] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:01,454 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:01] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:01,648 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:01] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:01,656 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:01] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:01,840 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:01] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:01,849 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:01] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:02,056 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:02] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:02,062 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:02] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:02,240 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:02] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:02,260 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:02] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:02,438 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:02] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:02,455 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:02] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:02,641 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:02] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:02,658 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:02] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:02,856 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:02] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:02,862 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:02] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:03,056 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:03] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:03,060 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:03] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:03,253 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:03] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:03,284 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:03] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:03,475 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:03] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:03,681 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:03] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:03,863 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:03] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:04,059 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:04] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:04,250 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:04] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:04,444 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:04] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:04,622 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:04] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:04,812 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:04] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:05,002 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:05] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:05,186 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:05] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:05,368 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:05] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:05,555 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:05] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:09,993 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:09] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:10,194 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:10] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:10,384 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:10] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:10,584 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:10] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:10,771 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:10] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:10,963 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:10] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:11,147 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:11] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:11,336 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:11] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:11,541 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:11] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:11,735 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:11] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:11,939 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:11] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:12,154 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:12] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:12,343 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:12] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:12,542 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:12] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:12,743 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:12] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:12,938 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:12] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:13,125 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:13] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:13,309 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:13] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:13,496 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:13] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:13,703 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:13] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:13,890 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:13] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:14,075 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:14] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:14,267 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:14] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:14,459 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:14] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:14,668 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:14] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:14,872 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:14] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:15,080 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:15] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:15,285 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:15] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:15,472 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:15] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:15,681 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:15] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:15,883 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:15] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:16,076 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:16] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:16,282 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:16] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:16,467 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:16] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:16,668 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:16] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:16,883 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:16] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:17,066 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:17] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:17,271 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:17] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:17,454 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:17] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:17,648 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:17] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:17,855 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:17] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:18,048 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:18] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:18,250 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:18] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:18,458 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:18] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:18,640 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:18] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:18,841 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:18] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:19,038 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:19] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:19,227 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:19] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:19,417 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:19] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:19,613 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:19] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:19,813 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:19] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:20,020 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:20] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:20,211 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:20] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:20,396 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:20] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:20,591 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:20] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:20,786 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:20] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:20,971 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:20] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:21,170 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:21] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:21,362 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:21] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:21,576 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:21] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:21,779 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:21] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:21,982 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:21] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:22,174 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:22] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:22,381 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:22] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:22,585 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:22] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:22,786 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:22] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:22,992 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:22] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:23,197 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:23] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:23,388 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:23] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:23,573 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:23] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:23,755 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:23] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:23,944 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:23] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:24,132 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:24] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:24,337 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:24] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:24,528 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:24] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:24,771 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:24] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:24,967 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:24] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:25,159 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:25] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:25,340 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:25] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:25,539 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:25] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:25,748 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:25] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:25,872 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:25,872 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:25] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:26,000 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:26,001 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:26,085 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:26,086 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:26,177 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:26,178 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:26,277 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:26,278 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:26,378 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:26,378 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:26,480 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:26,480 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:26,586 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:26,587 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:26,677 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:26,677 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:26,771 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:26,771 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:26,879 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:26,880 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:26,981 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:26,982 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:26] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:27,080 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:27,080 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:27] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:27,174 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:27,174 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:27] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:27,282 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:27,283 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:27] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:27,376 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:27,376 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:27] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:27,485 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:27,486 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:27] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:27,615 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:27,615 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:27] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:27,685 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:27,686 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:27] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:27,783 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:27,784 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:27] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:27,889 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:27,890 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:27] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:27,989 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:27,989 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:27] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:28,090 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:28,091 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:28,188 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:28,189 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:28,293 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:28,293 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:28,421 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:28,422 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:28,507 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:28,507 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:28,598 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:28,598 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:28,696 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:28,696 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:28,791 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:28,792 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:28,898 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:28,899 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:28] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:29,006 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:29,006 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:29,102 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:29,102 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:29,201 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:29,202 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:29,303 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:29,304 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:29,405 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:29,406 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:29,497 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:29,497 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:29,605 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:29,606 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:29,717 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:29,717 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:29,813 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:29,814 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:29,910 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:29,911 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:29] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:30,011 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:30,011 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:30,116 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:30,117 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:30,229 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:30,230 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:30,320 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:30,321 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:30,425 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:30,425 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:30,510 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:30,511 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:30,626 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:30,626 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:30,720 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:30,720 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:30,829 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:30,830 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:30,930 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:30,931 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:30] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:31,030 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:31,030 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:31,131 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:31,132 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:31,239 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:31,240 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:31,360 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:31,361 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:31,439 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:31,440 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:31,561 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:31,562 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:31,644 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:31,644 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:31,725 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:31,726 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:31,836 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:31,837 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:31,937 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:31,938 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:31] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:32,051 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:32,052 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:32,170 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:32,171 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:32,241 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:32,242 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:32,335 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:32,336 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:32,444 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:32,445 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:32,575 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:32,576 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:32,672 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:32,673 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:32,779 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:32,779 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:32,860 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:32,861 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:32,952 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:32,952 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:32] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:33,042 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:33,043 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:33,152 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:33,152 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:33,251 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:33,251 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:33,360 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:33,360 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:33,470 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:33,471 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:33,590 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:33,591 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:33,660 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:33,660 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:33,757 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:33,758 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:33,864 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:33,864 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:33,947 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:33,948 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:33] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:34,043 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:34,043 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:34,157 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:34,157 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:34,255 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:34,255 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:34,346 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:34,346 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:34,447 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:34,448 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:34,549 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:34,549 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:34,651 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:34,654 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:34,753 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:34,754 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:34,851 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:34,851 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:34,957 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:34,958 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:34] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:35,052 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:35,053 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:35,166 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:35,167 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:35,253 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:35,253 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:35,355 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:35,356 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:35,459 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:35,459 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:35,570 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:35,571 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:35,656 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:35,656 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:35,755 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:35,756 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:35,862 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:35,863 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:35,961 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:35,962 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:35] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:36,093 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:36,093 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:36,169 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:36,169 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:36,268 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:36,269 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:36,362 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:36,363 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:36,471 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:36,471 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:36,572 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:36,573 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:36,664 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:36,664 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:36,781 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:36,781 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:36,882 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:36,882 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:36,969 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:36,969 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:36] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:37,093 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:37,093 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:37,183 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:37,184 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:37,270 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:37,271 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:37,383 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:37,383 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:37,476 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:37,477 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:37,594 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:37,595 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:37,684 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:37,684 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:37,787 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:37,788 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:37,876 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:37,877 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:37,984 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:37,984 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:37] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:38,088 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:38,089 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:38,193 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:38,193 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:38,289 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:38,290 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:38,401 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:38,402 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:38,532 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:38,533 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:38,594 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:38,594 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:38,684 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:38,685 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:38,785 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:38,785 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:38,887 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:38,888 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:38,990 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:38,990 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:38] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:39,095 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:39,095 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:39,186 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:39,186 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:39,298 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:39,300 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:39,390 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:39,391 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:39,508 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:39,508 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:39,596 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:39,597 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:39,717 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:39,717 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:39,808 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:39,809 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:39,920 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:39,920 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:39] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:40,016 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:40,016 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:40,097 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:40,098 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:40,202 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:40,203 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:40,302 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:40,303 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:40,403 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:40,403 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:40,503 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:40,504 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:40,614 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:40,615 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:40,710 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:40,710 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:40,805 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:40,806 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:40,905 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:40,905 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:40] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:41,006 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:41,007 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:41,101 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:41,102 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:41,201 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:41,202 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:41,301 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:41,302 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:41,436 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:41,437 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:41,517 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:41,517 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:41,606 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:41,607 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:41,723 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:41,724 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:41,811 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:41,812 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:41,915 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:41,916 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:41] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:42,008 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:42,008 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:42,116 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:42,116 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:42,215 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:42,216 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:42,329 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:42,330 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:42,434 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:42,435 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:42,529 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:42,529 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:42,618 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:42,619 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:42,718 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:42,719 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:42,830 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:42,831 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:42,922 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:42,923 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:42] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:43,017 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:43,018 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:43] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:43,119 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:43,120 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:43] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:43,221 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:43,221 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:43] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:43,319 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:43,319 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:43] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:43,421 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:43,421 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:43] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:43,521 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:43,522 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:43] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:43,621 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:43,621 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:43] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:43,719 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:43,720 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:43] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:43,827 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:43,827 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:43] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:43,926 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:43,926 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:43] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:44,027 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:44,028 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:44] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:44,135 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:44,136 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:44] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:44,228 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:44,228 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:44] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:44,332 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:44,333 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:44] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:44,432 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:44,432 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:44] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:44,536 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:44,537 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:44] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:44,649 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:44,650 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:44] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:44,733 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:44,733 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:44] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:44,840 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:44,841 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:44] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:44,945 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:44,946 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:44] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:45,032 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:45,032 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:45] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:45,137 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:45,137 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:45] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:45,233 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:45,234 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:45] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:45,346 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:45,347 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:45] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:45,439 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:45,440 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:45] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:45,565 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:45,565 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:45] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:46,447 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:46,448 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:46] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:46,550 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:46,551 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:46] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:46,654 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:46,655 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:46] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:46,749 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:46,750 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:46] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:46,858 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:46,859 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:46] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:46,951 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:46,952 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:46] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:47,045 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:47,046 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:47,170 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:47,170 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:47,247 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:47,247 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:47,337 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:47,338 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:47,447 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:47,448 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:47,587 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:47,588 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:47,652 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:47,653 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:47,759 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:47,760 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:47,869 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:47,869 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:47,958 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:47,959 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:47] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:48,053 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:48,054 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:48,153 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:48,153 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:48,243 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:48,244 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:48,343 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:48,344 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:48,446 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:48,447 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:48,546 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:48,546 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:48,654 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:48,655 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:48,749 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:48,750 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:48,857 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:48,858 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:48,945 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:48,946 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:48] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:49,052 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:49,053 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:49,156 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:49,157 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:49,245 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:49,246 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:49,360 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:49,361 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:49,449 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:49,449 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:49,556 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:49,556 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:49,650 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:49,651 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:49,752 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:49,752 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:49,855 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:49,856 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:49,948 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:49,949 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:49] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:50,049 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:50,050 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:50,155 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:50,155 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:50,259 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:50,260 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:50,358 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:50,358 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:50,461 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:50,461 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:50,562 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:50,563 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:50,658 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:50,659 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:50,757 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:50,758 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:50,862 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:50,862 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:50,964 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:50,965 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:50] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:51,059 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:51,059 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:51,164 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:51,164 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:51,263 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:51,264 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:51,380 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:51,380 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:51,462 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:51,462 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:51,563 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:51,564 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:51,660 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:51,661 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:51,773 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:51,774 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:51,875 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:51,876 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:51,982 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:51,982 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:51] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:52,075 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:52,076 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:52,186 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:52,186 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:52,252 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:35:52,268 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:52,269 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:52,371 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:52,373 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:52,469 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:52,469 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:52,572 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:52,573 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:52,689 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:52,690 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:52,785 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:52,786 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:52,875 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:52,876 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:52,984 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:52,985 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:52] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:53,095 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:53,095 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:53,176 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:53,176 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:53,289 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:53,290 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:53,377 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:35:53,683 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:35:53,769 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:53,770 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:53,867 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:53,868 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:53,971 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:53,971 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:53] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:54,078 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:54,078 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:54,187 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:54,188 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:54,287 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:54,288 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:54,294 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:35:54,388 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:54,389 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:54,494 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:54,495 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:54,590 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:54,590 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:54,687 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:54,688 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:54,784 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:54,784 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:54,832 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:35:54,882 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:54,883 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:54,996 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:54,997 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:54] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:55,029 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:35:55,092 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:55,093 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:55,187 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:55,188 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:55,228 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:35:55,289 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:55,290 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:55,394 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:55,395 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:55,489 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:55,490 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:55,592 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:55,593 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:55,699 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:55,700 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:55,793 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:55,794 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:55,894 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:55,895 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:55] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:56,202 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:35:56,492 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:56,493 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:56,586 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:56,586 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:56,684 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:56,684 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:56,784 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:56,785 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:56,886 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:56,887 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:56,987 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:56,987 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:56] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:57,088 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:57,088 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:57] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:57,188 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:57,188 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:57] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:57,287 - __main__ - WARNING - Detection timeout for session stream_ly07yjbvp
+2025-08-17 12:35:57,288 - werkzeug - INFO - 127.0.0.1 - - [17/Aug/2025 12:35:57] "POST /process_mobile_stream HTTP/1.1" 200 -
+2025-08-17 12:35:58,224 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:35:58,538 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:06,159 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:06,355 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:06,546 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:06,727 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,228 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,267 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,302 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,336 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,348 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,397 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,427 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,439 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,484 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,508 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,538 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,568 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,596 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,626 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,652 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,685 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,717 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,745 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,778 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,809 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,834 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,861 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,890 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,920 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,953 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:07,984 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,012 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,044 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,074 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,104 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,134 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,162 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,192 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,222 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,253 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,285 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,313 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,345 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,377 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,412 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,449 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,483 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,516 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,532 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,597 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,601 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,623 - __main__ - INFO - Shutting down gracefully...
+2025-08-17 12:36:08,650 - __main__ - INFO - Shutting down gracefully...

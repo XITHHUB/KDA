@@ -1,0 +1,35 @@
+version: "3.8"
+
+services:
+  yolov8-web:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./best.pt:/app/best.pt:ro
+      - ./config.json:/app/config.json:ro
+    environment:
+      - FLASK_ENV=production
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - yolov8-web
+    restart: unless-stopped
+
+networks:
+  default:
+    driver: bridge
